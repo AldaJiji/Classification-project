@@ -1,6 +1,6 @@
 # Classification Project
 
-This project aims to predict customer churn for a fictional telecommunications company using a dataset [dataset](churn.xlsx)  containing various customer attributes and their churn status. 
+This project aims to predict customer churn for a fictional telecommunications company using a [dataset](churn.xlsx)  containing various customer attributes and their churn status. 
 More information can be found [here](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113).
 
 The goal is to create a model to predict whether or not a customer will churn based on their profile and behavior.
