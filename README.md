@@ -7,7 +7,7 @@ The goal is to create a model to predict whether or not a customer will churn ba
 To achieve this, we employed three different machine learning models : Random Forest Classifier, Logistic Regression, and Support Vector Classifier (SVC). 
 
 
-## Notebook contente
+## Notebook content
 
 1. Import Necessary Libraries, Reading, Exploring and Preparing Data
 2. Create Random Forest Classifier model
